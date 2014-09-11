@@ -1,0 +1,5 @@
+<map id="Game" name="Game">
+<area shape="rect" id="node2" href="$class_connect_four.html" title="Class that extends Game by using the rules of ConnectFour." alt="" coords="5,80,101,107"/>
+<area shape="rect" id="node3" href="$class_othello.html" title="Extends Game with the rules of Othello as specified." alt="" coords="126,80,188,107"/>
+<area shape="rect" id="node4" href="$class_tic_tac_toe.html" title="Class that extends Game by using the rules of TicTacToe2." alt="" coords="213,80,293,107"/>
+</map>

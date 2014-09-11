@@ -1,0 +1,13 @@
+<map id="AIEasy" name="AIEasy">
+<area shape="rect" id="node2" href="$class_player.html" title="Gets move that returns coordinates. Contains name and colour get/set methods." alt="" coords="253,767,312,793"/>
+<area shape="rect" id="node10" href="$class_game_board_graphics.html" title="Class which deals with the graphics of the game board." alt="" coords="545,169,687,196"/>
+<area shape="rect" id="node3" href="$class_game.html" title="Main control class which processes the overall game logic." alt="" coords="1386,656,1443,683"/>
+<area shape="rect" id="node4" href="$class_grid.html" title="This class contains methods to store information on grid and provides methods to set and get coordina..." alt="" coords="1574,565,1621,592"/>
+<area shape="rect" id="node5" href="$class_game_window.html" title="This class is used to initialise the main GUI window." alt="" coords="1109,565,1211,592"/>
+<area shape="rect" id="node14" href="$class_coordinate.html" title="Coordinate objects are used to hold information about one individual point in the game board..." alt="" coords="1555,345,1639,372"/>
+<area shape="rect" id="node25" href="$class_timer.html" title="Timer class, This class implements the count up timer to be used in both game windows." alt="" coords="1570,701,1625,728"/>
+<area shape="rect" id="node23" href="$class_controls.html" title="Main controls class which controls all the game/user controls." alt="" coords="1379,543,1450,569"/>
+<area shape="rect" id="node7" href="$class_drawing.html" title="Creates and updates the side bar." alt="" coords="873,439,941,465"/>
+<area shape="rect" id="node18" href="$class_drawing_1_1_g_u_i_event_handler.html" title="Drawing.GUIEventHandler" alt="" coords="531,535,701,561"/>
+<area shape="rect" id="node24" href="$enum_game_1_1_player_turn.html" title="enum to be stored in the grid object as players moves onto the board" alt="" coords="1099,809,1221,836"/>
+</map>

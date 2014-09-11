@@ -1,0 +1,13 @@
+<map id="Othello" name="Othello">
+<area shape="rect" id="node2" href="$class_game.html" title="Main control class which processes the overall game logic." alt="" coords="261,269,318,296"/>
+<area shape="rect" id="node3" href="$class_grid.html" title="This class contains methods to store information on grid and provides methods to set and get coordina..." alt="" coords="521,339,567,365"/>
+<area shape="rect" id="node4" href="$class_game_window.html" title="This class is used to initialise the main GUI window." alt="" coords="1361,168,1463,195"/>
+<area shape="rect" id="node13" href="$class_coordinate.html" title="Coordinate objects are used to hold information about one individual point in the game board..." alt="" coords="502,389,586,416"/>
+<area shape="rect" id="node16" href="$class_player.html" title="Gets move that returns coordinates. Contains name and colour get/set methods." alt="" coords="515,441,573,468"/>
+<area shape="rect" id="node25" href="$class_timer.html" title="Timer class, This class implements the count up timer to be used in both game windows." alt="" coords="517,288,571,315"/>
+<area shape="rect" id="node9" href="$class_game_board_graphics.html" title="Class which deals with the graphics of the game board." alt="" coords="806,543,949,569"/>
+<area shape="rect" id="node23" href="$class_controls.html" title="Main controls class which controls all the game/user controls." alt="" coords="1622,168,1693,195"/>
+<area shape="rect" id="node6" href="$class_drawing.html" title="Creates and updates the side bar." alt="" coords="1134,713,1202,740"/>
+<area shape="rect" id="node18" href="$class_drawing_1_1_g_u_i_event_handler.html" title="Drawing.GUIEventHandler" alt="" coords="792,237,963,264"/>
+<area shape="rect" id="node24" href="$enum_game_1_1_player_turn.html" title="enum to be stored in the grid object as players moves onto the board" alt="" coords="5,269,128,296"/>
+</map>

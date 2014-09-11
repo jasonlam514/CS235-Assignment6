@@ -1,0 +1,14 @@
+<map id="Saver" name="Saver">
+<area shape="rect" id="node2" href="$class_file_manager.html" title="Class to handle the locations of individual files." alt="" coords="831,229,924,256"/>
+<area shape="rect" id="node3" href="$class_game.html" title="Main control class which processes the overall game logic." alt="" coords="261,236,318,263"/>
+<area shape="rect" id="node4" href="$class_grid.html" title="This class contains methods to store information on grid and provides methods to set and get coordina..." alt="" coords="521,324,567,351"/>
+<area shape="rect" id="node5" href="$class_game_window.html" title="This class is used to initialise the main GUI window." alt="" coords="1361,172,1463,199"/>
+<area shape="rect" id="node14" href="$class_coordinate.html" title="Coordinate objects are used to hold information about one individual point in the game board..." alt="" coords="502,560,586,587"/>
+<area shape="rect" id="node17" href="$class_player.html" title="Gets move that returns coordinates. Contains name and colour get/set methods." alt="" coords="515,391,573,417"/>
+<area shape="rect" id="node26" href="$class_timer.html" title="Timer class, This class implements the count up timer to be used in both game windows." alt="" coords="517,145,571,172"/>
+<area shape="rect" id="node10" href="$class_game_board_graphics.html" title="Class which deals with the graphics of the game board." alt="" coords="806,779,949,805"/>
+<area shape="rect" id="node24" href="$class_controls.html" title="Main controls class which controls all the game/user controls." alt="" coords="1622,172,1693,199"/>
+<area shape="rect" id="node7" href="$class_drawing.html" title="Creates and updates the side bar." alt="" coords="1134,756,1202,783"/>
+<area shape="rect" id="node19" href="$class_drawing_1_1_g_u_i_event_handler.html" title="Drawing.GUIEventHandler" alt="" coords="792,441,963,468"/>
+<area shape="rect" id="node25" href="$enum_game_1_1_player_turn.html" title="enum to be stored in the grid object as players moves onto the board" alt="" coords="5,236,128,263"/>
+</map>

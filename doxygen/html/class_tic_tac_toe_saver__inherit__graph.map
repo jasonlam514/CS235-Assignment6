@@ -1,0 +1,4 @@
+<map id="TicTacToeSaver" name="TicTacToeSaver">
+<area shape="rect" id="node2" href="$class_saver.html" title="Class to handle saving data to files." alt="" coords="34,80,88,107"/>
+<area shape="rect" id="node3" href="$class_file_manager.html" title="Class to handle the locations of individual files." alt="" coords="15,5,108,32"/>
+</map>

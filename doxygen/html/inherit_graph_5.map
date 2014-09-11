@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_game.html" title="Main control class which processes the overall game logic." alt="" coords="6,56,63,83"/>
+<area shape="rect" id="node2" href="$class_connect_four.html" title="Class that extends Game by using the rules of ConnectFour." alt="" coords="112,5,208,32"/>
+<area shape="rect" id="node3" href="$class_othello.html" title="Extends Game with the rules of Othello as specified." alt="" coords="129,56,191,83"/>
+<area shape="rect" id="node4" href="$class_tic_tac_toe.html" title="Class that extends Game by using the rules of TicTacToe2." alt="" coords="119,107,201,133"/>
+</map>

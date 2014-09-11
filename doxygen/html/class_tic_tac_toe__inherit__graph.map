@@ -1,0 +1,3 @@
+<map id="TicTacToe" name="TicTacToe">
+<area shape="rect" id="node2" href="$class_game.html" title="Main control class which processes the overall game logic." alt="" coords="17,5,73,32"/>
+</map>

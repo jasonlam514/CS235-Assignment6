@@ -1,0 +1,12 @@
+<map id="Coordinate" name="Coordinate">
+<area shape="rect" id="node9" href="$class_game_board_graphics.html" title="Class which deals with the graphics of the game board." alt="" coords="347,300,490,327"/>
+<area shape="rect" id="node2" href="$class_game.html" title="Main control class which processes the overall game logic." alt="" coords="1189,199,1246,225"/>
+<area shape="rect" id="node3" href="$class_grid.html" title="This class contains methods to store information on grid and provides methods to set and get coordina..." alt="" coords="1374,103,1421,129"/>
+<area shape="rect" id="node4" href="$class_game_window.html" title="This class is used to initialise the main GUI window." alt="" coords="911,293,1014,320"/>
+<area shape="rect" id="node15" href="$class_player.html" title="Gets move that returns coordinates. Contains name and colour get/set methods." alt="" coords="1368,383,1427,409"/>
+<area shape="rect" id="node24" href="$class_timer.html" title="Timer class, This class implements the count up timer to be used in both game windows." alt="" coords="1370,239,1425,265"/>
+<area shape="rect" id="node22" href="$class_controls.html" title="Main controls class which controls all the game/user controls." alt="" coords="1182,311,1253,337"/>
+<area shape="rect" id="node6" href="$class_drawing.html" title="Creates and updates the side bar." alt="" coords="675,575,743,601"/>
+<area shape="rect" id="node17" href="$class_drawing_1_1_g_u_i_event_handler.html" title="Drawing.GUIEventHandler" alt="" coords="333,669,504,696"/>
+<area shape="rect" id="node23" href="$enum_game_1_1_player_turn.html" title="enum to be stored in the grid object as players moves onto the board" alt="" coords="901,157,1024,184"/>
+</map>

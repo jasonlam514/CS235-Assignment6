@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_player.html" title="Gets move that returns coordinates. Contains name and colour get/set methods." alt="" coords="5,107,64,133"/>
+<area shape="rect" id="node2" href="$class_a_i_easy.html" title="This class contains methods to create and run a AI." alt="" coords="135,5,199,32"/>
+<area shape="rect" id="node3" href="$class_connect_four_a_i.html" title="The AI for ConnectFour to make a move." alt="" coords="113,56,221,83"/>
+<area shape="rect" id="node4" href="$class_human.html" title="sets which player&#39;s move it is then sends this to the game class" alt="" coords="135,107,198,133"/>
+<area shape="rect" id="node5" href="$class_othello_a_i.html" title="The AI for Othello to make a move." alt="" coords="129,157,204,184"/>
+<area shape="rect" id="node6" href="$class_tic_tac_toe_a_i.html" title="The AI for TicTacToe to make a move." alt="" coords="120,208,213,235"/>
+</map>

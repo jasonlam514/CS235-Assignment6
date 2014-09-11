@@ -1,0 +1,4 @@
+<map id="OthelloSaver" name="OthelloSaver">
+<area shape="rect" id="node2" href="$class_saver.html" title="Class to handle saving data to files." alt="" coords="25,80,79,107"/>
+<area shape="rect" id="node3" href="$class_file_manager.html" title="Class to handle the locations of individual files." alt="" coords="5,5,99,32"/>
+</map>

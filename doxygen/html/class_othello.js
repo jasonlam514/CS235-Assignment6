@@ -1,0 +1,28 @@
+var class_othello =
+[
+    [ "Othello", "class_othello.html#aea807276be1806d5dcc82789ab47103f", null ],
+    [ "availableMove", "class_othello.html#a18f0c872df14c1b01caf7883df844574", null ],
+    [ "checkBound", "class_othello.html#a6d766156bbde4a602770fac98ab8761e", null ],
+    [ "checkPassTurn", "class_othello.html#a5f583d6e9a1b1a10ee8959ddb91b8ee8", null ],
+    [ "debug", "class_othello.html#a016e30c87d5aa6d08187d5789c3dd3f3", null ],
+    [ "debug", "class_othello.html#a4e4d4afdc55c54797550ea2c503bd2c4", null ],
+    [ "emptyWin", "class_othello.html#ab596571463b5fd7d3a5ca4d929e6fb62", null ],
+    [ "getWin", "class_othello.html#a2a5a7fff2c465b2f294e607811c6dbb1", null ],
+    [ "isAnyValidMove", "class_othello.html#aa7c43e571f3296a5a879aa5d3f5e67c8", null ],
+    [ "isOver", "class_othello.html#ab0d114e24b487a194a61a8f6d4ee6338", null ],
+    [ "isOver", "class_othello.html#ab8f386932dfad554eee9e50ed8e759ee", null ],
+    [ "isValidMove", "class_othello.html#aab434fb21cd96f00f9813bb0526616be", null ],
+    [ "isWinner", "class_othello.html#a2b0e9c99d9b99cb43d97206692419bb8", null ],
+    [ "moveMade", "class_othello.html#a31f8368257c2b14957e76f26d3a934a3", null ],
+    [ "moveScore", "class_othello.html#a400854360eda124389fea9b26d33cdc5", null ],
+    [ "nextPlayer", "class_othello.html#a467e6ec1ded0faf5af0fc45b85fa31d7", null ],
+    [ "resetGame", "class_othello.html#a1196eda85897856737995ee39e1c5e33", null ],
+    [ "resetGame", "class_othello.html#a416e74d73957fb6750ea931172184f6d", null ],
+    [ "start", "class_othello.html#ae7b7840fe3e9f21f7c83db7e923ce762", null ],
+    [ "take", "class_othello.html#ac2f11a1335a92f858ccb00909c17c4a0", null ],
+    [ "takeMove", "class_othello.html#ad91f69abfba0e4eec9f53640b6f7b464", null ],
+    [ "m_p1", "class_othello.html#a75d11874f17976e6379964a6de1b8054", null ],
+    [ "m_p2", "class_othello.html#ab4e89d064802684ff88953ed599321a9", null ],
+    [ "m_passmsg", "class_othello.html#af8faef23f55fd14963a4c55d9b806784", null ],
+    [ "m_win", "class_othello.html#a6f92948cfa998e9ffbab0f889b8a7401", null ]
+];

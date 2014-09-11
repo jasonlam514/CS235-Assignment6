@@ -1,0 +1,4 @@
+<map id="ConnectFourLoader" name="ConnectFourLoader">
+<area shape="rect" id="node2" href="$class_loader.html" title="Class to handle loading data from files." alt="" coords="41,80,103,107"/>
+<area shape="rect" id="node3" href="$class_file_manager.html" title="Class to handle the locations of individual files." alt="" coords="25,5,119,32"/>
+</map>

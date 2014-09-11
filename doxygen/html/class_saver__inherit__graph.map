@@ -1,0 +1,6 @@
+<map id="Saver" name="Saver">
+<area shape="rect" id="node3" href="$class_connect_four_saver.html" title="Class to set file paths for the Saving of ConnectFour." alt="" coords="5,155,133,181"/>
+<area shape="rect" id="node4" href="$class_othello_saver.html" title="Class to set file paths for the Saving of Othello." alt="" coords="158,155,252,181"/>
+<area shape="rect" id="node5" href="$class_tic_tac_toe_saver.html" title="Class to set file paths for the Saving of TicTacToe." alt="" coords="277,155,389,181"/>
+<area shape="rect" id="node2" href="$class_file_manager.html" title="Class to handle the locations of individual files." alt="" coords="159,5,252,32"/>
+</map>

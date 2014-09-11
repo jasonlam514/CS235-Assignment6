@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_file_manager.html" title="Class to handle the locations of individual files." alt="" coords="5,120,99,147"/>
+<area shape="rect" id="node2" href="$class_loader.html" title="Class to handle loading data from files." alt="" coords="147,81,208,108"/>
+<area shape="rect" id="node6" href="$class_saver.html" title="Class to handle saving data to files." alt="" coords="150,183,205,209"/>
+<area shape="rect" id="node3" href="$class_connect_four_loader.html" title="Class to set file paths for the Loading of ConnectFour." alt="" coords="257,5,391,32"/>
+<area shape="rect" id="node4" href="$class_othello_loader.html" title="Class to set file paths for the Loading of Othello." alt="" coords="273,56,375,83"/>
+<area shape="rect" id="node5" href="$class_tic_tac_toe_loader.html" title="Class to set file paths for the Loading of TicTacToe." alt="" coords="264,107,384,133"/>
+<area shape="rect" id="node7" href="$class_connect_four_saver.html" title="Class to set file paths for the Saving of ConnectFour." alt="" coords="260,157,388,184"/>
+<area shape="rect" id="node8" href="$class_othello_saver.html" title="Class to set file paths for the Saving of Othello." alt="" coords="277,208,371,235"/>
+<area shape="rect" id="node9" href="$class_tic_tac_toe_saver.html" title="Class to set file paths for the Saving of TicTacToe." alt="" coords="267,259,381,285"/>
+</map>

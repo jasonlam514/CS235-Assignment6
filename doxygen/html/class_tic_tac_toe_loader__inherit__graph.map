@@ -1,0 +1,4 @@
+<map id="TicTacToeLoader" name="TicTacToeLoader">
+<area shape="rect" id="node2" href="$class_loader.html" title="Class to handle loading data from files." alt="" coords="35,80,96,107"/>
+<area shape="rect" id="node3" href="$class_file_manager.html" title="Class to handle the locations of individual files." alt="" coords="19,5,112,32"/>
+</map>

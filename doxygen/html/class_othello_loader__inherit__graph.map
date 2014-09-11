@@ -1,0 +1,4 @@
+<map id="OthelloLoader" name="OthelloLoader">
+<area shape="rect" id="node2" href="$class_loader.html" title="Class to handle loading data from files." alt="" coords="25,80,87,107"/>
+<area shape="rect" id="node3" href="$class_file_manager.html" title="Class to handle the locations of individual files." alt="" coords="9,5,103,32"/>
+</map>
